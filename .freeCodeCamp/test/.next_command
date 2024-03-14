@@ -48,3 +48,4 @@ git remote set-url origin https://github.com/ < Jozehub > / < SQL-Certification 
 git remote set-url origin https://github.com/jzehub/SQL-Certification.git
 git branch -M main
 git push -u origin main
+echo hello SQL
